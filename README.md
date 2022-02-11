@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**MunifTanjim/MunifTanjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://muniftanjim.dev#gh-dark-mode-only">
+    <img src="./mona-loading-dark.gif#gh-dark-mode-only" href="./mona-loading-dark.gif#gh-dark-mode-only" alt="Loading Animation" width="48" />
+  </a>
+  <a href="https://muniftanjim.dev#gh-light-mode-only">
+    <img src="./mona-loading-default.gif#gh-light-mode-only" href="./mona-loading-default.gif#gh-light-mode-only" alt="Loading Animation" width="48" />
+  </a>
+  <br />
+  <span>One moment please...</span>
+</p>
